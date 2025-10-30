@@ -8,7 +8,7 @@ import heroImage from "@/assets/hero-burger.jpg";
 const Gallery = () => {
   const images = [
     { src: heroImage, alt: "Nosso Trailer" },
-    { src: burgerClassic, alt: "Classic Burger" },
+    { src: burgerClassic, alt: "Taste Burger" },
     { src: burgerBacon, alt: "Bacon Supreme" },
     { src: burgerVeggie, alt: "Veggie Burger" },
     { src: fries, alt: "Batata Frita" },

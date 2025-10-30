@@ -66,7 +66,7 @@ const menuItems: MenuItem[] = [
 const Menu = () => {
   const handleOrder = (item: MenuItem) => {
     const message = `Olá! Gostaria de pedir: ${item.name} - ${item.price}`;
-    window.open(`https://wa.me/5511999999999?text=${encodeURIComponent(message)}`, '_blank');
+    window.open(`https://wa.me/5561991093281?text=${encodeURIComponent(message)}`, '_blank');
   };
 
   return (

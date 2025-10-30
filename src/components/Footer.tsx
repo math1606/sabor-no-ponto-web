@@ -32,7 +32,7 @@ const Footer = () => {
                 <Facebook className="w-5 h-5" />
               </a>
               <a
-                href="https://wa.me/5511999999999"
+                href="https://wa.me/5561991093281"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-all"
@@ -45,18 +45,18 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-lg mb-4">Horários</h4>
             <ul className="space-y-2 text-muted-foreground">
-              <li>Segunda a Sexta: 18h - 23h</li>
-              <li>Sábado e Domingo: 18h - 00h</li>
+              <li>Segunda a Sábado: 11h - 14:30</li>
+              <li>Domingo: Fechado</li>
             </ul>
           </div>
 
           <div>
             <h4 className="font-semibold text-lg mb-4">Contato</h4>
             <ul className="space-y-2 text-muted-foreground">
-              <li>Av. Principal, 123</li>
-              <li>Centro - Cidade/Estado</li>
-              <li>(11) 99999-9999</li>
-              <li>contato@pointdosabor.com.br</li>
+              <li>CLN 215 Bloco D</li>
+              <li>Asa Norte - Brasília/DF</li>
+              <li>(61) 991093281</li>
+              <li>roelton29@gmail.com</li>
             </ul>
           </div>
         </div>

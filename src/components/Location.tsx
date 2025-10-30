@@ -18,8 +18,8 @@ const Location = () => {
               <MapPin className="w-12 h-12 mx-auto mb-4 text-primary" />
               <h3 className="text-xl font-semibold mb-2">Endereço</h3>
               <p className="text-muted-foreground">
-                Av. Principal, 123<br />
-                Centro - Cidade/Estado
+                CLN 215 Bloco D <br />
+                Asa Norte - Brasília/DF
               </p>
             </Card>
 
@@ -27,8 +27,8 @@ const Location = () => {
               <Clock className="w-12 h-12 mx-auto mb-4 text-primary" />
               <h3 className="text-xl font-semibold mb-2">Horários</h3>
               <p className="text-muted-foreground">
-                Seg a Sex: 18h - 23h<br />
-                Sáb e Dom: 18h - 00h
+                Seg a Sab: 11h - 14:30<br />
+                Dom: Fechado
               </p>
             </Card>
 
@@ -36,15 +36,14 @@ const Location = () => {
               <Phone className="w-12 h-12 mx-auto mb-4 text-primary" />
               <h3 className="text-xl font-semibold mb-2">Contato</h3>
               <p className="text-muted-foreground">
-                (11) 99999-9999<br />
-                @pointdosabor
+                (61) 991093281<br />
               </p>
             </Card>
           </div>
 
           <div className="rounded-2xl overflow-hidden shadow-2xl h-96 animate-fade-in">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1976290724704!2d-46.65844968502086!3d-23.56144098468213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8da0aa315%3A0xd59f9431f2c9776a!2sAv.%20Paulista%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1234567890123!5m2!1spt-BR!2sbr"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d403.65507514163284!2d-47.888399301635644!3d-15.738655135800869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3984191ca879%3A0x5ff429d3398b35d5!2sPoint%20do%20Sabor%20215norte!5e0!3m2!1spt-BR!2sbr!4v1761792563682!5m2!1spt-BR!2sbr"
               width="100%"
               height="100%"
               style={{ border: 0 }}

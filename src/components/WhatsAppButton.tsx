@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 const WhatsAppButton = () => {
   const handleClick = () => {
-    window.open('https://wa.me/5511999999999?text=Olá! Gostaria de fazer um pedido!', '_blank');
+    window.open('https://wa.me/5561991093281?text=Olá! Gostaria de fazer um pedido!', '_blank');
   };
 
   return (
